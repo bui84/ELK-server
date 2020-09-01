@@ -2,12 +2,12 @@
 
 The files in this repository were used to configure the network depicted below.
 
-(!ElkArchitecture.png(https://drive.google.com/file/d/18r1YjSIjRXjnp94W VPfMFaH_BSNCYmVp/view?usp=sharing)
+(!ElkArchitecture.png(https://drive.google.com/file/d/18r1YjSIjRXjnp94WVPfMFaHBSNCYmVp/view?usp=sharing)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
 
-playbook.yml(https://drive.google.com/drive/folders/1wCnzmhNNLTOx7FAY5 ovYpy-VP08CYG5U)
+playbook.yml(https://drive.google.com/drive/folders/1wCnzmhNNLTOx7FAY5ovYpy-VP08CYG5U)
 This document contains the following details:
 - Description of the Topologu
 - Access Policies
